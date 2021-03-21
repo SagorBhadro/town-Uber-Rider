@@ -1,9 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDpL2heOHreiaHzjkNmqk_9HHTHg_t7iPs",
-  authDomain: "pick-me01.firebaseapp.com",
-  projectId: "pick-me01",
-  storageBucket: "pick-me01.appspot.com",
-  messagingSenderId: "214430650270",
-  appId: "1:214430650270:web:55ce1f1799bad9724d108f"
+  apiKey: "AIzaSyBFzOJrjoGAMOmgrILUOQFs2FhLMIrSrPw",
+  authDomain: "town-rider.firebaseapp.com",
+  projectId: "town-rider",
+  storageBucket: "town-rider.appspot.com",
+  messagingSenderId: "119109708393",
+  appId: "1:119109708393:web:fb4fe5568d7828799190f8"
 };
 export default firebaseConfig;
